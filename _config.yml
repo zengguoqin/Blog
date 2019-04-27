@@ -3,11 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: "Allen_qin的博客"
 subtitle:
-description:
-keywords:
-author: John Doe
+description: "十年磨一剑，专注java，服务化，大数据领域"
+keywords: "大数据平台，调度系统，元数据管理，数据血缘，java，guoqin，曾国钦"
+author: "Allen Qin"
+email: "zengguoqin520@163.com"
 language:
 timezone:
 
