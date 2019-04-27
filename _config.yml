@@ -8,14 +8,13 @@ subtitle:
 description: "十年磨一剑，专注java，服务化，大数据领域"
 keywords: "大数据平台，调度系统，元数据管理，数据血缘，java，guoqin，曾国钦"
 author: "Allen Qin"
-email: "zengguoqin520@163.com"
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://zengguoqin.github.io/
-root: /Blog
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -75,7 +74,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: landscape
-theme: yilia
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
